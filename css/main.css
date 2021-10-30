@@ -2,10 +2,15 @@ body {
  font-size:20px;
 }
 .page{
- background-color: antiquewhite;
+ background-color: #1a1c41;
+ color: white;
+ border-radius: 30px;
  width: 70%;
  margin-left: 15%;
  display: flex;
  flex-direction: column;
  align-items: center;
+}
+#hello_world{
+ visibility:hidden;
 }
